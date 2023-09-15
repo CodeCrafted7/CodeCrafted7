@@ -1,4 +1,17 @@
 ### Hi there 👋
+Hello, I'm Shaishav Gupta, proficient in C, C++, and Java.
+
+I'm pursuing a B.Tech in Computer Science at Graphic Era Hill University, Dehradun. In my free time, I enjoy learning Android and web development.
+
+I've honed my tech skills through hands-on experience and coursework, striving for excellence.
+
+I bring problem-solving, adaptability, and dedication to any project or team.
+
+My short-term goal is to secure a role in an MNC to support my family and my long-term aspiration is to contribute to my birthplace and society in a senior tech role.
+
+Let's connect and collaborate to achieve our goals!
+
+Contact me at: shaishavgupta598@gmail.com
 
 <!--
 **CodeCrafted7/CodeCrafted7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
