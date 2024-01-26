@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🏆 Leetcode Profile
-![](https://leetcard.jacoblin.cool/codecrafted7?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/codecrafted7?theme=dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeCrafted7&icon=5&color=0)](https://visitcount.itsvg.in)
 
